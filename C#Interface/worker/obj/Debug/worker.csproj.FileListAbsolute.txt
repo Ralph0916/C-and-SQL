@@ -1,0 +1,66 @@
+G:\C#\worker\worker\obj\Debug\worker.csprojAssemblyReference.cache
+G:\C#\worker\worker\obj\Debug\worker.Form2.resources
+G:\C#\worker\worker\obj\Debug\worker.form1.resources
+G:\C#\worker\worker\obj\Debug\worker.Properties.Resources.resources
+G:\C#\worker\worker\obj\Debug\worker.csproj.GenerateResource.cache
+G:\C#\worker\worker\obj\Debug\worker.csproj.CoreCompileInputs.cache
+G:\C#\worker\worker\bin\Debug\worker.exe.config
+G:\C#\worker\worker\bin\Debug\worker.exe
+G:\C#\worker\worker\bin\Debug\worker.pdb
+G:\C#\worker\worker\obj\Debug\worker.exe
+G:\C#\worker\worker\obj\Debug\worker.pdb
+G:\C#\worker\worker\obj\Debug\worker.Form3.resources
+G:\C#\worker\worker\obj\Debug\worker.form4.resources
+G:\C#\worker\worker\obj\Debug\worker.add.resources
+G:\C#\worker\worker\obj\Debug\worker.selec.resources
+H:\数据库实训\C#界面\worker\worker\bin\Debug\worker.exe.config
+H:\数据库实训\C#界面\worker\worker\bin\Debug\worker.exe
+H:\数据库实训\C#界面\worker\worker\bin\Debug\worker.pdb
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.csprojAssemblyReference.cache
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.add.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.form2.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.form4.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.selec.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.form3.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.form1.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.Properties.Resources.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.csproj.GenerateResource.cache
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.csproj.CoreCompileInputs.cache
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.exe
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.pdb
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.alter.resources
+H:\数据库实训\C#界面\worker\worker\obj\Debug\worker.form7.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\bin\Debug\worker.exe.config
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\bin\Debug\worker.exe
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\bin\Debug\worker.pdb
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.csprojAssemblyReference.cache
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.alter.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.form7.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.add.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.form2.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.form4.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.selec.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.form3.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.form1.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.exe
+C:\Users\thinkpad\Desktop\数据库实训\worker\worker\obj\Debug\worker.pdb
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.csprojAssemblyReference.cache
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.alter.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.form7.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.add.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.form2.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.form4.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.selec.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.form3.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.form1.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.exe
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\obj\Debug\worker.pdb
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\bin\Debug\worker.exe.config
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\bin\Debug\worker.exe
+C:\Users\thinkpad\Desktop\陈帅 170118\C#界面\worker\bin\Debug\worker.pdb
